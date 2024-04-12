@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\st02_2_1071_miron_alin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\st02_2_1071_miron_alin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|c:\\users\\alinm\\source\\repos\\st02_2_1071_miron_alin\\st02_2_1071_miron_alin\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\st02_2_1071_miron_alin\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\st02_2_1071_miron_alin\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\st02_2_1071_miron_alin\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0470017-2EEE-41DE-BBAF-128DEAB902C3}|ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin.csproj|solutionrelative:st02_2_1071_miron_alin\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\Entities\\Book.cs",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:09:52.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\Entities\\Library.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\Entities\\Library.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\Entities\\Library.cs",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\Entities\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:17:21.675Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwDsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:15:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\AddEditForm.cs [Design]",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\AddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:09:20.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:13:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "RelativeDocumentMoniker": "ST02_2_1071_Miron_Alin\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alinm\\source\\repos\\ST02_2_1071_Miron_Alin\\ST02_2_1071_Miron_Alin\\MainForm.cs [Design]",
+              "RelativeToolTip": "ST02_2_1071_Miron_Alin\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:55:32.799Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

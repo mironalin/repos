@@ -1,0 +1,11 @@
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\bin\Debug\ST02_2_1071_Miron_Alin.exe.config
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\bin\Debug\ST02_2_1071_Miron_Alin.exe
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\bin\Debug\ST02_2_1071_Miron_Alin.pdb
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.csproj.AssemblyReference.cache
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.AddEditForm.resources
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.MainForm.resources
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.Properties.Resources.resources
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.csproj.GenerateResource.cache
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.csproj.CoreCompileInputs.cache
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.exe
+C:\Users\alinm\source\repos\ST02_2_1071_Miron_Alin\ST02_2_1071_Miron_Alin\obj\Debug\ST02_2_1071_Miron_Alin.pdb
